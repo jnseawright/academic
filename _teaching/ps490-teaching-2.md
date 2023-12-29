@@ -2,9 +2,9 @@
 title: "PS 490: Time Series and Panel Methods"
 collection: teaching
 type: "Graduate course"
-permalink: "https://jnseawright.github.io/Spring-2023/"
+permalink: /Spring-2023
 venue: "Northwestern Political Science"
-date: "Spring, 2023"
+date: 2023-03-31
 location: "Evanston, IL, USA"
 ---
 
