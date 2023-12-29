@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "J. Seawright's Social Science Homepage"
+excerpt: "Representation, Democratic Crisis, and Multi-Method Research Design"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+J. Seawright is a professor of political science who studies representation, democratic crisis, and multi-method research design. Seawright has written about [party-system collapse and democratic crisis in Peru and Venezuela](https://www-sup.stanford.edu/books/title/?id=16821&bottom_ref=subject); about the participatory agendas of [wealthy people](https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/democracy-and-thepolicy-preferences-of-wealthy-americans/B783EEF6785FEE093198ABED8D2C3D61) and of [billionaires](https://press.uchicago.edu/ucp/books/book/chicago/B/bo29143391.html) in the U.S.; about [case selection](https://journals.sagepub.com/doi/abs/10.1177/1065912907313077) and other topics in [multi-method research design](https://www.cambridge.org/core/books/multimethod-social-science/286C2742878FBCC6225E2F10D6095A0C), among many other topics. 
 
 A data-driven personal website
 ======
