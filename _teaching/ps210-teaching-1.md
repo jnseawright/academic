@@ -2,9 +2,9 @@
 title: "PS 210: Introduction to Empirical Research Methods"
 collection: teaching
 type: "Undergraduate course"
-permalink: https://github.com/jnseawright/ps210
+permalink: "https://jnseawright.github.io/ps210/"
 venue: "Northwestern Political Science"
-date: Fall, 2023
+date: "Fall, 2023"
 location: "Evanston, IL, USA"
 ---
 
