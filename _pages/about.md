@@ -14,4 +14,8 @@ Teaching
 ======
 Seawright teaches a wide range of courses about social science research methods, which are opportunities to think about how we can evaluate our beliefs and the claims other people make about the social world --- and also chances for us to use math, computers, reading, and critical thought to put those claims in dialogue with evidence. Doing that well can be a lot of fun, and Seawright tries to structure methods courses around opportunities to play with ideas, tools, and evidence. See the teaching tab above for specific course materials.
 
+Contact
+======
+Seawright can be reached at j-seawright at northwestern point edu. Office hours are Tuesdays from 3-5pm in Scott Hall 316, or a meeting can be arranged online or in person at a different time.
+
 
