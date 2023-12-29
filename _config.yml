@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "J. Seawright"
-  avatar           : "SeawrightHeadshot.png"
+  avatar           : "images/SeawrightHeadshot.png"
   bio              : "Professor of political science, scholar of representation, democratic crisis, and multi-method research design."
   location         : "Evanston, IL, USA"
   employer         :
