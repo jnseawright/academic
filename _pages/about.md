@@ -16,6 +16,6 @@ Seawright teaches a wide range of courses about social science research methods,
 
 Contact
 ======
-Seawright can be reached at j-seawright at northwestern point edu. Office hours are Tuesdays from 3-5pm in Scott Hall 316, or a meeting can be arranged online or in person at a different time.
+Seawright can be reached at j-seawright at northwestern point edu. Office hours are Mondays from 3-5pm at 2001 Sheridan Road, Room 3203, or a meeting can be arranged online or in person at a different time.
 
 
